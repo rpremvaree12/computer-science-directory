@@ -8,3 +8,10 @@ p {
   font-family: "Indie Flower";
   text-align: center;
 }
+
+h1 {
+  color: white;
+  font-size: 200%;
+  font-family: "Indie Flower";
+/*   text-align: center; */
+}
