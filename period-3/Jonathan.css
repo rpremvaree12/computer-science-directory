@@ -1,0 +1,28 @@
+body{
+  background-color: rgb(0, 255, 0);
+}
+h1{
+  color:red;
+    font-family: "Arial", Sans-serif, serif;
+    
+}
+
+a{
+  color: blue;
+/*border: black dotted 2px; */
+  padding: 10px;
+}
+
+a:hover{
+  background-color: rgb(0, 255, 255);
+  color: black;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  margin: 10px;
+/*   border: black dotted 2px;*/
+}
