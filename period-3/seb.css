@@ -6,23 +6,3 @@ h1{
     font-family: "Arial", Sans-serif, serif;
     
 }
-
-a{
-  color: red;
-/*border: black dotted 2px; */
-  padding: 10px;
-}
-
-a:hover{
-  background-color: rgb(191, 85, 236);
-  color: white;
-}
-
-ul{
-  list-style-type: none;
-}
-
-li{
-  margin: 10px;
-/*   border: black dotted 2px;*/
-}
