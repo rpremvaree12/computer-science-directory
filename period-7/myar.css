@@ -1,0 +1,21 @@
+body{
+  background-image: url("http://xonecole.com/wp-content/uploads/2015/09/Beyonce-Made-In-America-2.gif");
+  background-size: 300px;
+}
+
+h1{
+  background-color: black;
+    color: lavender;
+  font-style: oblique;
+  text-align: center;
+}
+
+h2{
+  padding: 14px 25px;
+  background-color: black;
+  color: lavender;
+  font-style: oblique;
+  text-align: center;
+   text-decoration: none;
+    display: inline-block;
+}
