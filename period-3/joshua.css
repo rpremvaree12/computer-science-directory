@@ -1,0 +1,13 @@
+html{
+  background: url(http://hdwallpaperspretty.com/wp-content/gallery/landscape-background-images/123291-27000.jpg) no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+h1{
+    color: red;
+    text-align:center;
+}
+
