@@ -1,1 +1,22 @@
-h1 {color: blue;}
+h1 {
+    color: white;
+    font-family: "Francois One", sans-serif;
+    font-size: 50px;
+    text-align: center ;
+}
+p{
+    color: white;
+    font-family: "Francois One", sans-serif;
+    font-size: 20px;
+
+}
+
+   
+html{
+    background: url(http://randomwallpapers.net/disney-castle-funny-2560x1440-wallpaper34179.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
