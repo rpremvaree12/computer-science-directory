@@ -1,3 +1,7 @@
 body {
   background-image: url("http://data.whicdn.com/images/217743906/superthumb.jpg")
 }
+
+h1 {
+  color: white;
+}
