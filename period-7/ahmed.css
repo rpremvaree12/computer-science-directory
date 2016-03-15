@@ -1,3 +1,13 @@
 
 
-background-color: #00004d; 
+body{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/aa/6d/4b/aa6d4b9cfcaf9390f15f4920048694b9.jpg")
+}
+
+h2{
+    color: #9F0303;
+}
+
+h3{
+    color: #fff;
+}
