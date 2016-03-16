@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h2>Greys Anatomy</h3>
-<img src="http://cdn.playbuzz.com/cdn/3e83eb45-5c54-47c6-8a7f-2baf90f8df13/38544ff8-1297-41e6-99a5-ff70bd81d0f0.jpg"
-style="width:304px;height:228px;">
-</body>
-</html>
 
+h1{
+  font-family: "Georgia";
+  color:#EB9532;
+  background-color:#FDE3A7;
+}
