@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Risque);
+
+h1{
+  font-family: "Risque";
+  text-allign: center;
+   color: orange;
+}
+h4{
+  color: yellow;
+}
+h3{
+  color: cyan;
+}
+body{
+  background-image: url("http://36.media.tumblr.com/tumblr_ltn9nyPZMZ1r2h6ioo1_500.png")
+}
