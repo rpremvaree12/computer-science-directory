@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 body{
   background: #6BB9F0; /* For browsers that do not support gradients */
@@ -10,6 +11,7 @@ body{
 }
 
 a{
+  font-family: 'Shadows Into Light';
   text-decoration: none;
   color: white;
 /*border: black dotted 2px; */

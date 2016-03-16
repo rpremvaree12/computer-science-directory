@@ -11,12 +11,13 @@ body{
 }
 
 a{
-  font-family: 'Domine';
+  font-family: 'Bad Script';
   text-decoration: none;
   color: white;
 /*border: black dotted 2px; */
   padding: 10px;
   font-size: x-large;
+  display: inline-block;
 }
 
 a:hover{
