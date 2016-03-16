@@ -2,7 +2,7 @@ body{
   background-color: rgb(0, 255, 0);
 }
 h1{
-  color:red;
+  color:orange;
     font-family: "Arial", Sans-serif, serif;
     
 }
@@ -25,4 +25,9 @@ ul{
 li{
   margin: 10px;
 /*   border: black dotted 2px;*/
+}
+
+
+body {
+    background-image: url("http://www.learnelectricguitaronline.org/wp-content/uploads/2010/11/1999-SRV-stratocaster-1.jpg");
 }
