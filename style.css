@@ -1,5 +1,17 @@
 a{
-  text-decoration: none;
+  text-decoration: line-under;
+  text-align: center;
+  color: green;
+}
+a{
+  text-decoration: line-through;
+  text-align: center;
+  color: blue
+}
+h1 {
+  text-align: center;
+  color: orange;
+  text-decoration: line-under
 }
 
 
@@ -36,5 +48,5 @@ a{
 
 .dropdown-content:hover{
   display:inline-block;
-  
+
 } */
