@@ -1,5 +1,21 @@
-a{
-  text-decoration: none;
+.bg-1{
+  background-color: #9B59B6;
+  color: white;
+}
+
+.bg-2{
+  background-color: #6C7A89;
+  color: white;
+}
+
+.bg-3{
+  background-color: #F2F1EF;
+  color: black;
+}
+
+.bg-4{
+  background-color: #03A678;
+  color: white;
 }
 
 .bg-1 { 
