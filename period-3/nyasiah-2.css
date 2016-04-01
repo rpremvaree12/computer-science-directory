@@ -1,0 +1,67 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 62px;
+
+}
+
+html { 
+  background: url(http://orig11.deviantart.net/db40/f/2015/101/7/4/lionsmane_animated_by_khan_the_cake_lover-d8pd1o2.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    opacity:1.0;
+}
+
+div {
+    background-color: lightgrey;
+    width: 1000px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: auto;
+    background: rgba(204, 204, 204, 0.5);
+}
+
+#image4{
+  display:block; 
+  position: relative;
+  margin:auto; 
+  z-index: 100;
+  opacity: 1.0;
+}
+
+#image1 {
+  display:block; 
+  position: relative;
+  margin:auto;
+}
+
+#image2 {
+  display:block; 
+  position: relative;
+  margin:auto;
+}
+
+#image3 {
+  display:block; 
+  position: relative;
+  margin:auto;
+}
+
+.link {
+    margin: auto;
+    width: 20%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    text-align: center
+}
+
+a:link, a:visited{
+    color: #c4748b;   
+}
